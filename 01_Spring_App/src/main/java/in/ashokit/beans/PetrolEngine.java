@@ -1,4 +1,4 @@
-package in.ashokit.beans;
+package in.jayasri.beans;
 
 public class PetrolEngine {
 
