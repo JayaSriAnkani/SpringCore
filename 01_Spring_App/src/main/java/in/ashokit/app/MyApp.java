@@ -1,4 +1,4 @@
-package in.ashokit.app;
+package in.jayasri.app;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
